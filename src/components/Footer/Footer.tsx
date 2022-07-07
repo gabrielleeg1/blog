@@ -63,7 +63,7 @@ export default function Footer() {
               </li>
 
               <li>
-                <a href='https://www.linkedin.com/in/gabrielle-guimar%C3%A3es-de-oliveira-1aa393233/'>
+                <a href='https://www.linkedin.com/in/gabrielle-guimar%C3%A3es-1aa393233/'>
                   <FiLinkedin /> Linkedin
                 </a>
               </li>
